@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# This script shows basic Linux system information.
+
 echo "===== System Information ====="
 echo "Hostname: $(hostname)"
 echo "Current user: $(whoami)"
