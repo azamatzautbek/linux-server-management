@@ -1,34 +1,46 @@
-\# Linux Server Management Project
+# Linux Server Management Project
 
+## Project Purpose
 
+This project contains simple Linux administration scripts and documentation for basic server management tasks.
 
-\## Project Purpose
+## Project Structure
 
+- `scripts/` - Linux administration scripts
+- `docs/` - installation, configuration, and troubleshooting documentation
+- `config/` - server configuration files
+- `README.md` - main project documentation
 
+## Development Workflow
 
-This project provides a collection of Linux administration scripts and documentation for basic server management tasks.
+New features are developed in separate branches.
+Changes are added to the `main` branch through Pull Requests.
 
+## Branching Strategy
 
+- `main` - stable version
+- `feature/*` - new features
+- `bugfix/*` - bug fixes
 
-\## Project Structure
+## Contribution Process
 
+1. Create a new branch.
+2. Make changes.
+3. Commit the changes.
+4. Push the branch to GitHub.
+5. Create a Pull Request.
+6. Review the changes.
+7. Merge into `main`.
 
+## Testing Process
 
-\- `scripts/` - Linux administration scripts
+Scripts are checked before merging.
+Git history and file changes are reviewed before final integration.
 
-\- `docs/` - installation, configuration, and troubleshooting documentation
+## Troubleshooting Process
 
-\- `config/` - configuration files
+Common problems and solutions are described in `docs/troubleshooting.md`.
 
-\- `README.md` - main project documentation
+## Project Version
 
-
-
-\## Development Workflow
-
-
-
-New features are developed in separate branches and merged into the stable `main` branch through Pull Requests.
-
-Project Version: 2.0
-
+2.0
