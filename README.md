@@ -30,4 +30,5 @@ This project provides a collection of Linux administration scripts and documenta
 
 New features are developed in separate branches and merged into the stable `main` branch through Pull Requests.
 
-Project Version: 1.5
+Project Version: 2.0
+
