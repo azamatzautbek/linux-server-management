@@ -4,5 +4,3 @@
 
 echo "===== Disk Usage ====="
 df -h
-
-echo "ERROR: wrong test line"
